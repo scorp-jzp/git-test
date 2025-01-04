@@ -1,3 +1,3 @@
-My Odin Foundation Journey
+<h1>My Odin Foundation Journey</h1>
 
-First project: BTS Recipes
+<p>First project: BTS Recipes</p>
