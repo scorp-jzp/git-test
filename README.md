@@ -1,3 +1,4 @@
 <h1>My Odin Foundation Journey</h1>
 
-First project: [BTS Recipes](odin-recipes)
+HTML Project: [BTS Recipes](odin-recipes)
+CSS/Flexbox Project: [Landing Page](landing-page)
